@@ -20,11 +20,8 @@ figcaption {
   width: 800px;
 }
 
-#details {
-  float: left;
-}
-
 #details div {
+  float:left;
   background-color: #ebc5d7;
   width: 25%;
 }
