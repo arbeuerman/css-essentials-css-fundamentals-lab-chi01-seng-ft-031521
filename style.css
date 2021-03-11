@@ -20,5 +20,5 @@ figcaption {
 
 #featured-property p {
   margin: auto;
-  border: black;
+  background-color: pink;
 }
