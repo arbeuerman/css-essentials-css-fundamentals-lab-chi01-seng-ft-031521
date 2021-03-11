@@ -15,11 +15,3 @@ figcaption {
   font-size: 10px;
 }
 
-#featured-property {
-  align-self: center;
-}
-
-#featured-property p {
-  width: 800px;
-  text-align: center;
-}
