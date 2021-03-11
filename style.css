@@ -15,7 +15,9 @@ figcaption {
   font-size: 10px;
 }
 
-
+#featured-property{
+  color:blue;
+}
 
 #featured-property p {
   width: 800px;
