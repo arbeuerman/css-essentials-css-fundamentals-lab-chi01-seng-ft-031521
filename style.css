@@ -16,7 +16,7 @@ figcaption {
 }
 
 #featured-property{
-
+  justify-content: center;
 }
 
 #featured-property p {
