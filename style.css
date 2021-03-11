@@ -5,10 +5,8 @@ body {
   text-align: center;
 }
 
-h1 {
-  text-align: center;
-}
-
-a {
-  
+navbar a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: 
 }
