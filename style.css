@@ -2,18 +2,17 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
 
 nav a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: #Dbdedf;
-  text-align: center;
 }
 
 figcaption {
   font-size: 10px;
-  text-align: center;
 }
 
 #featured-property p {
