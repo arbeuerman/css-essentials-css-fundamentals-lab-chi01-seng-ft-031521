@@ -15,12 +15,12 @@ figcaption {
   font-size: 10px;
 }
 
-#featured-property{
-  background-color: blue;
-}
-
 #featured-property p {
   margin: auto;
-  background-color: pink;
   width: 800px;
 }
+
+#details {
+  float: left;
+}
+
