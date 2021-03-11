@@ -16,9 +16,8 @@ figcaption {
 }
 
 #featured-property{
-  justify-content: center;
 }
 
 #featured-property p {
-  width: 800px;
+  max-width: 800px;
 }
